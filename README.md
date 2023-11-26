@@ -32,18 +32,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/VaXPJ6S.png" height="80%" width="80%" alt="[Disk Sanitization Steps]"/>
 </p>
 <p>
-In this step, we are installing IIS in order to create a webserver that will allow users to access OSTicket.
+In this step, I am installing IIS in order to create a webserver that will allow users to access OSTicket.
 </p>
 <br />
 <p>
 <img src="https://i.imgur.com/qAVa1Vo.png" height="80%" width="80%" alt="Next"/>
 </p>
 <p>
-Here, we are registering PHP Manager inside of IIS. This allows for configuration of the graphical user interface for PHP installations.
+Here, I am registering PHP Manager inside of IIS. This allows for configuration of the graphical user interface for PHP installations.
 <br />
 <img src="https://i.imgur.com/FMezGQr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-  At this point, we have successfully installed all of the prerequisites and the required functionalities to run OSTicket! Next, we will perform further configuration for service use.
+  At this point, I have successfully installed all of the prerequisites and the required functionalities to run OSTicket! Next, we will perform further configuration for service use.
 </p>
 <br />
