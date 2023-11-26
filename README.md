@@ -36,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/VaXPJ6S.png" height="80%" width="80%" alt="[Disk Sanitization Steps]"/>
 </p>
 <p>
-In this step, we are installing IIS in order to create a webserver that
+In this step, we are installing IIS in order to create a webserver that will allow users to access OSTicket.
 </p>
 <br />
 
